@@ -1,2 +1,34 @@
 04/12/15-15:57:05 DEBUG: Server.py started
 04/12/15-15:57:05 INFO: Server started on 192.168.0.11 8000
+09/09/16-23:18:47 DEBUG: Server.py started
+09/09/16-23:18:47 INFO: Server started on 192.168.2.203 8000
+09/09/16-23:18:47 DEBUG: Testing add_user()
+09/09/16-23:18:47 DEBUG: Testing check_friend
+09/09/16-23:18:47 DEBUG: Testing check_user()
+09/09/16-23:18:47 DEBUG: Testing get_offlinemsg
+09/09/16-23:18:47 DEBUG: testing get offlinemsgs
+09/09/16-23:18:47 DEBUG: Testing isBlank()
+09/09/16-23:18:47 DEBUG: Testing lookup_friend()
+09/09/16-23:18:47 DEBUG: Testing remove_user()
+09/09/16-23:18:47 DEBUG: Testing send_offlinemsg()
+09/09/16-23:18:47 DEBUG: Testing update_userinfo()
+09/09/16-23:19:23 DEBUG: Server.py started
+09/09/16-23:19:23 INFO: Server started on 192.168.2.203 8000
+09/09/16-23:20:17 INFO: lol was added
+09/09/16-23:20:17 INFO: lol was authenticated
+09/09/16-23:20:50 INFO: lol2 was added
+09/09/16-23:20:50 INFO: lol2 was authenticated
+09/09/16-23:25:22 INFO: Failed login for pss
+09/09/16-23:25:23 INFO: Failed login for pss
+09/09/16-23:25:24 INFO: Failed login for pss
+09/09/16-23:25:24 INFO: Failed login for pss
+09/09/16-23:25:24 INFO: Failed login for pss
+09/09/16-23:25:24 INFO: Failed login for pss
+09/09/16-23:25:24 INFO: Failed login for pss
+09/09/16-23:25:40 INFO: Failed login for pss
+09/09/16-23:25:40 INFO: Failed login for pss
+09/09/16-23:25:40 INFO: Failed login for pss
+09/09/16-23:25:45 INFO: lol was authenticated
+09/09/16-23:25:45 INFO: lol user information was updated
+09/09/16-23:26:21 INFO: pss was added
+09/09/16-23:26:21 INFO: pss was authenticated
